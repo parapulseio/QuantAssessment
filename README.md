@@ -226,6 +226,8 @@ architecture info such as head counts.
 
 ## Roadmap
 
+Task breakdown, dependencies and ordering: [Phase B / C development plan](docs/plans/2026-10-07-phase-b-c-development-plan.md).
+
 - [ ] Package skeleton, report models (`QuantAssessment`, `EvalRecord`), JSON Schema export
 - [ ] Range-request tensor fetch for safetensors and GGUF
 - [ ] AWQ (GEMM), GPTQ (v1, v2, `g_idx`) and GGUF dequant with round-trip tests
